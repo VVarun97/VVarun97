@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN stack**
 
-- 💬 Ask me about **Java, C, C++, Python, HTML, CSS.**
+- 💬 Ask me about **Javascript, C, C++, Python, HTML, CSS.**
 
 - 📫 How to reach me **varunvaidya13@gmail.com**
 
