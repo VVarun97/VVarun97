@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN stack**
 
-- 💬 Ask me about **MongoDB, Express, React, Node, C, C++, Python, HTML, CSS.**
+- 💬 Ask me about **MongoDB, Express, React, Node, HTML, CSS, C++, Python.**
 
 - 📫 How to reach me **varunvaidya13@gmail.com**
 
