@@ -59,4 +59,4 @@
 
 <p><img align="center" src="https://github-readme-stats-5.vercel.app//api?username=vvarun97&title_color=b57614&icon_color=448c27&text_color=853e9d&bg_color=f5f5f5&border_color=705697&show_icons=true&locale=en" alt="vvarun97" /></p>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=VVarun97&theme=flag-india&border_radius=55" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=VVarun97&theme=sunset-gradient&border_radius=20" alt="GitHub Streak" /></a>
